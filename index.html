@@ -3,7 +3,7 @@
   <head>
     <title>Hello, WebVR! - A-Frame</title>
     <meta name="description" content="Hello, WebVR! - A-Frame">
-    <script src="https://cdn.rawgit.com/donmccurdy/aframe-extras/v1.14.0/dist/aframe-extras.min.js"></script>
+      <script src="https://cdn.rawgit.com/donmccurdy/aframe-extras/v1.14.0/dist/aframe-extras.min.js"></script>
     <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
   </head>
   <body>
@@ -12,13 +12,16 @@
       <!-- Boxes With Audio -->
       <a-box material="color:blue;transparent:true;opacity:0" depth="1" height="1" width="1" sound="src: url(https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FBlue%20Moon%20(Frank%20Sinatra%20-%20with%20Lyrics).mp3?1518598424073); on: click" class="intersectable" position="-8.1 1.75 5.3"></a-box>
       <a-box material="color:blue;transparent:true;opacity:0" depth=".5" height="1" width=".5" sound="src: url(https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FInterstellar%20-%20Do%20not%20go%20gentle%20into%20that%20good%20night.mp3?1518663362565); on: click" class="intersectable" position="1.4 1.1 2.2"></a-box>
-      <a-box rotation="0 -35 0" material="color:white;transparent:true;opacity:0" depth="3" height=".1" width=".5" sound="src: url(https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FSleepAway.mp3?1518850751472); on: click" class="intersectable" position="-5.2 1.6 -12"></a-box>
+      <a-box material="color:blue;transparent:true;opacity:0" depth="3" height=".1" width=".5" sound="src: url(https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FBob%20Acri%20-%20Sleep%20Away.mp3?1518852480744); on: click" class="intersectable" position="-5.2 1.6 -12" rotation="0 -35 0"></a-box>
       
       <!-- <a-box color="tomato" position="0 0 6" depth="2" height="2" width="2" class="intersectable">
        <a-animation begin="click" attribute="position" from="0 0 6" to= "5 0 -10" dur="3000" direction="alternate" easing="ease-in-out"></a-animation>
       </a-box>-->
       
-      <!-- The Sky -->
+      <!-- The Sky/stars and lights -->
+     <a-entity light="type: ambient; color: #BBB"></a-entity>
+    <a-entity light="type: directional; color: #FFF; intensity: 0.6" position="-0.5 1 1"></a-entity>
+        <!--<a-light type="point" color="white" intensity= "0.2" position="11.4 2.8 -11.2"></a-light>-->
        <a-sky color="#ECECEC"></a-sky>
        <a-box position="12.4 2.8 -11.2" scale=".1 2 2" rotation="0 0 0" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FStar.jpg?1518749640222"></a-box>
       <!-- All assets for this Project -->
@@ -101,6 +104,8 @@
                 <a-asset-item id="PillowM" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2Fpillow.mtl?1518761787732"></a-asset-item> 
                 <a-asset-item id="CampingO" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FCamping.obj?1518830609447"></a-asset-item>
                 <a-asset-item id="CampingM" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FCamping.mtl?1518830609285"></a-asset-item> 
+                <a-asset-item id="CeilingfanO" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FCeiling%20Fan.obj?1518851235173"></a-asset-item>
+                <a-asset-item id="CeilingfanM" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FCeiling_Fan.mtl?1518851234317"></a-asset-item> 
         
         <!-- Image Assets-->
         <img id="Coffeemaker.jpg" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FCoffeemaker.jpg?1518585422463"/>
@@ -148,12 +153,13 @@
             <a-obj-model rotation="0 90 0" position="-7.5 -.08 -8 " scale=".05 .05 .05" src="#CribO" mtl="#CribM"></a-obj-model>
             <a-obj-model rotation="0 0 0" position="-7.3 .3 -7.85 " scale=".4 .4 .4" src="#PillowO" mtl="#PillowM"></a-obj-model>
             <a-obj-model rotation="0 90 0" position="9 .90 -14.2" scale="2 2 2" src="#CampingO" mtl="#CampingM"></a-obj-model>
+     
       
              <a-box position="0 2 -5.5" scale="4 .1 1" rotation="0 0 0" color="white"></a-box>
         <!-- Moving Tavern animation-->
             <a-entity geometry="primitive: box" color="blue" rotation="0 90 0" position="15 1.8 -4" scale="1.3 1.3 1.3" obj-model="position:15 1.8 -6.6;obj:#TavernO; mtl:#TavernM"  class="intersectable" >
             <a-animation begin="click" attribute="position" from="15 2 -7" to= "10 2 -7" dur="3000" direction="alternate" easing="ease-in-out"></a-animation> </a-entity>
-   
+         
       
             
             
