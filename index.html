@@ -20,8 +20,16 @@
       </a-box>-->
       
       <!-- The Sky/stars and lights -->
-     <a-entity light="type: ambient; color: #BBB"></a-entity>
-    <a-entity light="type: directional; color: #FFF; intensity: 0.6" position="-0.5 1 1"></a-entity>
+    <a-entity light="type: ambient; color: #BBB"></a-entity>
+<a-entity light="type: directional; color: #FFF; intensity: 0.6" position="-0.5 1 1"></a-entity>
+      
+     
+      
+     <a-light type="point" color="white" position="12 2.8 -11.2" scale=".1 .1 .1" class="intersectable" intensity="0">
+  <a-animation  attribute="intensity" from="0" to=".3" dur="10000" direction="alternate"  repeat></a-animation>
+</a-light>
+      
+      
         <!--<a-light type="point" color="white" intensity= "0.2" position="11.4 2.8 -11.2"></a-light>-->
        <a-sky color="#ECECEC"></a-sky>
        <a-box position="12.4 2.8 -11.2" scale=".1 2 2" rotation="0 0 0" src="https://cdn.glitch.com/7ab7d3b7-ddd5-4be2-aca9-8c93ca6ac0c6%2FStar.jpg?1518749640222"></a-box>
