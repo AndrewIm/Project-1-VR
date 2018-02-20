@@ -3,7 +3,7 @@
 ## [Video](https://www.youtube.com/watch?v=4d0j63YGN1s)
 ## [The Room](https://andrewim.github.io/Project-1-VR/)
 ### Room layout
-The screenshots below show different angles of the room and the various models in the room. The room is a rectangle with a size of 22 by 23. All the models that were used in this room were from [Poly](https://poly.google.com/)(List of models used with author name and link below).   
+The screenshots below show different angles of the room and the various models in the room. The room is a rectangle with a size of 22 by 23. All the models that were used in this room were from [Poly](https://poly.google.com/) (List of models used with author name and link below). The room was first made using [Glitch](https://glitch.com/) then imported to GitHub. There are 5 different lights in the room, 3 are used to show blue fading lights on the objects that are able to play sounds. 1 light is used to show the glowing of the stars witha  glowing white light near the window in the back of the room. The last light is used for lighting the room with an ambient light. The dynamic object in the room is the ceiling fan.
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR1.png "VR 1")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR2.png "VR 2")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR3.png "VR 3")
