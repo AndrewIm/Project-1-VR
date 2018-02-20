@@ -79,18 +79,18 @@
 [Ceiling Fan by Google](https://poly.google.com/view/evjKlG1pgr-)
 
 # Audio-3 in Total
-Blue Moon by Frank Sinatra:https://www.youtube.com/watch?v=6vr0amOKCHo
+[Blue Moon by Frank Sinatra](https://www.youtube.com/watch?v=6vr0amOKCHo)
 
-Sleep Away by Bob Acri:https://www.youtube.com/watch?v=I6PHgtdxFrY
+[Sleep Away by Bob Acri](https://www.youtube.com/watch?v=I6PHgtdxFrY)
 
-Interstellar-Do Not Go Gentle Into That Good Night by Dylan Thomas Read by Sir Michael Caine:https://www.youtube.com/watch?v=cZ04lK4pjGU
+[Interstellar-Do Not Go Gentle Into That Good Night by Dylan Thomas Read by Sir Michael Caine](https://www.youtube.com/watch?v=cZ04lK4pjGU)
 
 # Images-4 in Total
 
-Wood Texture:https://design.tutsplus.com/tutorials/quick-tip-create-a-seamless-wood-tile-in-minutes--psd-10043
+[Wood Texture](https://design.tutsplus.com/tutorials/quick-tip-create-a-seamless-wood-tile-in-minutes--psd-10043)
 
-Dark Tile:https://www.pinterest.com/pin/498562621237000626/
+[Dark Tile](https://www.pinterest.com/pin/498562621237000626/)
 
-Stone Tile:http://www.swtexture.com/2013/04/various-ledge-stones-1.html
+[Stone Tile](http://www.swtexture.com/2013/04/various-ledge-stones-1.html)
 
-Space:https://scontent-atl3-1.cdninstagram.com/vp/d85f12c5f6b6b589419d12a3c3d0c12f/5B202B10/t51.2885-15/e35/17076358_246165359177562_6697776493365297152_n.jpg?se=7&ig_cache_key=MTQ2MTU4OTQxNjExNTA3MDA3OQ%3D%3D.2
+[Space](https://scontent-atl3-1.cdninstagram.com/vp/d85f12c5f6b6b589419d12a3c3d0c12f/5B202B10/t51.2885-15/e35/17076358_246165359177562_6697776493365297152_n.jpg?se=7&ig_cache_key=MTQ2MTU4OTQxNjExNTA3MDA3OQ%3D%3D.2)
