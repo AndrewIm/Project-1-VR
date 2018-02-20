@@ -3,7 +3,7 @@
 ## [Video](https://www.youtube.com/watch?v=4d0j63YGN1s)
 ## [The Room](https://andrewim.github.io/Project-1-VR/)
 ### Room layout
-The screenshots below show different angles of the room and the various models in the room. The room is a rectangle with a size of 22 by 23. All the models that were used in this room were from [Poly](https://poly.google.com/).(List of models used with author name and link below)  
+The screenshots below show different angles of the room and the various models in the room. The room is a rectangle with a size of 22 by 23. All the models that were used in this room were from [Poly](https://poly.google.com/)(List of models used with author name and link below).   
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR1.png "VR 1")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR2.png "VR 2")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR3.png "VR 3")
