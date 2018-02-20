@@ -1,7 +1,13 @@
 # [Video](https://www.youtube.com/watch?v=4d0j63YGN1s)
 # [The Room](https://andrewim.github.io/Project-1-VR/)
 # Project 1 Report
-![alt text](https://raw.githubusercontent.com/AndrewIm/Project-1-VR/master/Report%20IMG%20and%20Video/p1.Im.jpg.png "Logo Title Text 1")
+![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR1.png "VR 1")
+![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%202.png "VR 2")
+![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%203.png "VR 3")
+![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%201.png "Audio 1")
+![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%202.png "Audio 2")
+![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%203.png "Audio 3")
+![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Button.png "Button 1")
 # Models-38 in Total
 
 [Table by Google](https://poly.google.com/view/fdtYBOniyxa)
