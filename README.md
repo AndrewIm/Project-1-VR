@@ -3,15 +3,17 @@
 ## [Video](https://www.youtube.com/watch?v=4d0j63YGN1s)
 ## [The Room](https://andrewim.github.io/Project-1-VR/)
 ### Room layout
-The screenshots below show different angles of the room and the various models in the room. The room is a rectangle with a size of 22 by 23. All the models that were used in this room were from [Poly](https://poly.google.com/) (List of models used with author name and link below). The room was first made using [Glitch](https://glitch.com/) then imported to GitHub. There are 5 different lights in the room, 3 are used to show blue fading lights on the objects that are able to play sounds. 1 light is used to show the glowing of the stars witha  glowing white light near the window in the back of the room. The last light is used for lighting the room with an ambient light. The dynamic object in the room is the ceiling fan.
+The screenshots below show different angles of the room and the various models in the room. The room is a rectangle with a size of 22 by 23. All the models that were used in this room were from [Poly](https://poly.google.com/) (List of models used with author name and link below). The room was first made using [Glitch](https://glitch.com/) then imported to GitHub. There are 5 different lights in the room, 3 are used to show blue fading lights on the objects that can play sounds. 1 light is used to show the glowing of the stars with a glowing white light near the window in the back of the room. The last light is used for lighting the room with an ambient light. The dynamic object in the room is the ceiling fan.
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR1.png "VR 1")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR2.png "VR 2")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR3.png "VR 3")
 ### Audio
-The screenshots below show the 3 different models in the room that are able to play sound. The first is the Saturn V Rocket, the second the Gramophone, and the third Piano.
+The screenshots below show the 3 different models in the room that can play sound. The first is the Saturn V Rocket, the second the Gramophone, and the third Piano. Each object has inside it a invisible box inside the model with similar dimension. When clicked on the box plays the audio file that it was assigned to. The only noticeable difference in these 3 models is that the invisible box to trigger the audio for the piano is the size of the keys not the entire piano. Music plays from 2 of the models (Gramophone, Piano) while the last one plays audio of a poem from a movie.
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%201.png "Audio 1")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%202.png "Audio 2")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Audio%203.png "Audio 3")
+### Controllable Object
+The controllable object in the room is a tavern that pops out of the wall when a button is triggered. When the user clicks on the button it triggers an animation event that makes the tavern change position to come out of the wall. If pressed again the tavern goes back into the wall. The tavern is triggered by an invisible box behind the button so that when the user clicks on the button it clicks the invisible box.
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Button.png "Button 1")
 # Models-38 in Total
 
