@@ -58,7 +58,7 @@
 
 [Toaster by Google:](https://poly.google.com/view/edIkWKMV1Wf)
 
-[Microwave by Google:](]https://poly.google.com/view/0YYExMzwX0V)
+[Microwave by Google:](https://poly.google.com/view/0YYExMzwX0V)
 
 [Orchid by Google:](https://poly.google.com/view/59BuDmuEYIZ)
 
