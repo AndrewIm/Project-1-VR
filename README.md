@@ -1,5 +1,5 @@
-# [Video](https://www.youtube.com/watch?v=4d0j63YGN1s)
-# [The Room](https://andrewim.github.io/Project-1-VR/)
+### [Video](https://www.youtube.com/watch?v=4d0j63YGN1s)
+### [The Room](https://andrewim.github.io/Project-1-VR/)
 # Project 1 Report
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR1.png "VR 1")
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/VR2.png "VR 2")
