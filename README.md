@@ -1,5 +1,5 @@
 # Project 1 Report
-![alt text](https://raw.githubusercontent.com/AndrewIm/Project-1-VR/master/Report%20IMG%20and%20Video/p1.Im.jpg.png"Logo Title Text 1")
+
 # Models-38 in Total
 
 [Table by Google](https://poly.google.com/view/fdtYBOniyxa)
