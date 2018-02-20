@@ -22,6 +22,20 @@
        <a-animation  attribute="intensity" from="0" to=".3" dur="10000" direction="alternate"  repeat></a-animation>
        </a-light>
       
+       window.addEventListener('touchstart', function() {
+
+	// create empty buffer
+	var buffer = myContext.createBuffer(1, 1, 22050);
+	var source = myContext.createBufferSource();
+	source.buffer = buffer;
+
+	// connect to output (your speakers)
+	source.connect(myContext.destination);
+
+	// play the file
+	source.noteOn(0);
+
+}, false);
        <!-- <a-light type="point" color="blue" position="-8.1 1.75 5.3" scale=".1 .1 .1" class="intersectable" decay=".1" intensity="0">
         <a-animation  attribute="intensity" from="0" to=".2" dur="10000" direction="alternate"  repeat></a-animation>
         </a-light> 
