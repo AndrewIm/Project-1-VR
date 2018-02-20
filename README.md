@@ -1,4 +1,4 @@
-# CS5331-001: Virtual Reality
+# Project 1 Report
 THREEJS Online: http://mrdoob.com/projects/htmleditor/
 
 THREEJS Editor: https://threejs.org/editor/
