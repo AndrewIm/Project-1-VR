@@ -15,7 +15,7 @@ The screenshots below show the 3 different models in the room that can play soun
 ### Controllable Object
 The controllable object in the room is a tavern that pops out of the wall when a button is triggered. When the user clicks on the button it triggers an animation event that makes the tavern change position to come out of the wall. If pressed again the tavern goes back into the wall. The tavern is triggered by an invisible box behind the button so that when the user clicks on the button it clicks the invisible box.
 ![alt text](https://github.com/AndrewIm/Project-1-VR/blob/master/Report%20IMG%20and%20Video/Button.png "Button 1")
-# Models-38 in Total
+# Models-39 in Total
 
 [Table by Google](https://poly.google.com/view/fdtYBOniyxa)
 
@@ -92,6 +92,8 @@ The controllable object in the room is a tavern that pops out of the wall when a
 [Camping Stuff by Don Carson](https://poly.google.com/view/3GSiSGRuyfT)
 
 [Ceiling Fan by Google](https://poly.google.com/view/evjKlG1pgr-)
+
+Shelf by Me
 
 # Audio-3 in Total
 [Blue Moon by Frank Sinatra](https://www.youtube.com/watch?v=6vr0amOKCHo)
